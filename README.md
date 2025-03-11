@@ -1,4 +1,4 @@
-# Validation Package
+# "Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements with Contextual Discrepancy Detection
 
 ## Overview
 
