@@ -1,4 +1,4 @@
-# "Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements with Contextual Discrepancy Detection
+# Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements with Contextual Discrepancy Detection
 
 ## Overview
 
